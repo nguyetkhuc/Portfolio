@@ -1,5 +1,5 @@
 # Public Portfolio
-This public repository contains my mockup User Guides, Instructions, and journal clippings.
+This public repository contains my mockup User Guides, Instructions, and link to journal clippings.
 ## Wiki Pages
 Two mockup Users Guides on how to create repositories and Wiki pages on GitHub.
 ## Documents
