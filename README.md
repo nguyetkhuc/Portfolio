@@ -1,2 +1,2 @@
 # Technical-Writing
-Please find the samples in the Wiki section.
+Please find my samples in the Wiki section.
