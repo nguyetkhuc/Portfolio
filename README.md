@@ -6,4 +6,4 @@ Two mockup Users Guides on how to create [repositories](https://github.com/nguye
 ### RetroPie
 This is a mockup installation guide for RetroPie, a software library used to emulate retro video games. I created this with DITA XML and the trial version of Adobe FrameMaker.
 ## Others
-Journal clippings and more details about my translation projects using MadCap Flare can be found on my [website](my-working-portfolio.com).
+My freelance translation projects are managed using MadCap Flare. Due to confidentiality, I can only include a screenshot of the projects with personal/sensitive information scraped out.
