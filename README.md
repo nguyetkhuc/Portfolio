@@ -1,9 +1,9 @@
 # Public Portfolio
-This public repository contains my mockup User Guides, Instructions, and link to journal clippings.
+This public repository contains my mockup User Guides and link to journal clippings.
 ## Wiki Pages
 Two mockup Users Guides on how to create [repositories](https://github.com/nguyetkhuc/Technical-Writing/wiki/How-to-create-a-repository-on-GitHub) and [Wiki pages](https://github.com/nguyetkhuc/Technical-Writing/wiki/How-to-create-a-new-Wiki-page-on-GitHub) on GitHub.
 ## Documents
 ### RetroPie
-This is a mockup How-To document on building an arcade machine using Rasberry Pi. I created this with DITA XML and the trial version of Adobe FrameMaker.
+This is a mockup installation guide for RetroPie, a software library used to emulate retro video games. I created this with DITA XML and the trial version of Adobe FrameMaker.
 ## Others
 Journal clippings and more details about my translation projects using MadCap Flare can be found on my [website](my-working-portfolio.com).
